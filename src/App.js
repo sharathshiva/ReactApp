@@ -9,11 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-<<<<<<< HEAD
-        Hello React From Local
-=======
         Hello React Master
->>>>>>> refs/remotes/origin/master
       </header>
     </div>
   );
